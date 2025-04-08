@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","178675","[R1.0]Auto - Mobile - Dashboard - Verify Dashboard screen","","Tue Apr 08 18:55:58 ICT 2025","passed","Tue Apr 08 18:58:57 ICT 2025","","Dashboard-ExistingStudy-NewParticipant - @Regression @R1.0 @Dashboard","",""
