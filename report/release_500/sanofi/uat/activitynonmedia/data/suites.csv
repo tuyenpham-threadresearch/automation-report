@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","235895","[R1.0]Auto - Mobile - Activity - Verify functionality of non-media activities","","Tue Apr 08 19:46:00 ICT 2025","passed","Tue Apr 08 19:49:56 ICT 2025","","Activity-ExistingStudy-NewParticipant-Complete-Non-Media - @Regression @R1.0 @Activity","",""
+"","4607","[R1.0]Auto - Mobile - Activity - Verify data sync service works properly","","Tue Apr 08 19:49:56 ICT 2025","passed","Tue Apr 08 19:50:01 ICT 2025","","Activity-ExistingStudy-NewParticipant-Complete-Non-Media - @Regression @R1.0 @Activity","",""
