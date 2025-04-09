@@ -1,8 +1,0 @@
-"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
-"0","","0","Web_R05_Functionality_Onboarding_Registration_Authentication_StudyUpdate @Regression @R0.5","4","0","","0"
-"1","","0","Profile-ExistingStudy-NewParticipant - @Sanity @R1.0 @Profile","1","0","","0"
-"0","","0","Activity-ExistingStudy-NewParticipant-Complete-Media - @Sanity @R1.0 @Activity","2","0","","0"
-"0","","0","Learn-ExistingStudy-NewParticipant - @Sanity @R1.0 @Learn @Debug","1","0","","0"
-"0","","0","Activity-ExistingStudy-NewParticipant-Complete-Non-Media - @Sanity @R1.0 @Activity","2","0","","0"
-"0","","0","Notification-ExistingStudy-NewParticipant - @Sanity @R1.0 @Notification","1","0","","0"
-"0","","0","Dashboard-ExistingStudy-NewParticipant - @Sanity @R1.0 @Dashboard @Debug","1","0","","0"
