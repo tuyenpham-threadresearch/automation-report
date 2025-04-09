@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","43392","PA-2272: [R0.5]Auto - Web - Check Onboarding functionality","","Wed Apr 09 16:01:50 ICT 2025","passed","Wed Apr 09 16:02:33 ICT 2025","","Web_R05_Functionality_Onboarding_Registration_Authentication_StudyUpdate @Regression @R0.5","",""
+"","67036","PA-2306: [R0.5]Auto - Web - Check Authentication functionality","","Wed Apr 09 16:03:35 ICT 2025","passed","Wed Apr 09 16:04:42 ICT 2025","","Web_R05_Functionality_Onboarding_Registration_Authentication_StudyUpdate @Regression @R0.5","",""
+"","36369","PA-2307: [R0.5]Auto - Web - Check Study Update functionality","","Wed Apr 09 16:04:42 ICT 2025","passed","Wed Apr 09 16:05:18 ICT 2025","","Web_R05_Functionality_Onboarding_Registration_Authentication_StudyUpdate @Regression @R0.5","",""
+"","61724","PA-2305: [R0.5]Auto - Web - Check Registration functionality","","Wed Apr 09 16:02:33 ICT 2025","passed","Wed Apr 09 16:03:35 ICT 2025","","Web_R05_Functionality_Onboarding_Registration_Authentication_StudyUpdate @Regression @R0.5","",""
