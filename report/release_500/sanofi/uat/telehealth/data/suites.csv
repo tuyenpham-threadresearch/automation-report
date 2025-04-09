@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","148446","[R1.0]Auto - Mobile - Activity - Verify user can receive unscheduled telehealth call from staff","","Wed Apr 09 09:43:56 ICT 2025","passed","Wed Apr 09 09:46:24 ICT 2025","","Telehealth-ExistingStudy-NewParticipant - @Regression @R1.0 @Activity","",""
