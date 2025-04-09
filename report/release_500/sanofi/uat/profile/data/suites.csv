@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","265147","[R1.0]Auto - Mobile - Profile - Verify user can change password","","Wed Apr 09 11:18:31 ICT 2025","passed","Wed Apr 09 11:22:56 ICT 2025","","Profile-ExistingStudy-NewParticipant @Regression @R1.0 @Profile","",""
+"","193723","[R1.0]Auto - Mobile - Profile - Verify user can change passcode","","Wed Apr 09 11:15:16 ICT 2025","passed","Wed Apr 09 11:18:29 ICT 2025","","Profile-ExistingStudy-NewParticipant @Regression @R1.0 @Profile","",""
+"","283938","[R1.0]Auto - Mobile - Profile - Verify Profile interface","","Wed Apr 09 11:10:30 ICT 2025","passed","Wed Apr 09 11:15:14 ICT 2025","","Profile-ExistingStudy-NewParticipant @Regression @R1.0 @Profile","",""
